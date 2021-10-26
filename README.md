@@ -1,0 +1,3 @@
+# madlads-nft-contract
+deploy the contracts and copy json abi file to madlads frontend
+That would be all...
